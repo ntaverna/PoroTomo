@@ -20,5 +20,7 @@ References:
 See this paper for additional details about the DAS survey: 
     Miller, Douglas E., et al. “DAS and DTS at Brady Hot Springs: Observations about Coupling and Coupled 
     Interpretations.” Semantic Scholar, 14 Feb. 2018, pdfs.semanticscholar.org/048f/419e3c2b4de348a7166b13cab3bc0d56afdc.pdf.
+    
 See here for additional info about the SEG-Y-rev1 file structure: https://seg.org/Portals/0/SEG/News%20and%20Resources/Technical%20Standards/seg_y_rev1.pdf
+
 See here for additional info about .h5 file format: https://support.hdfgroup.org/HDF5/doc/H5.format.html
